@@ -1,4 +1,4 @@
-
+[![MasterHead](https://i.pinimg.com/originals/38/2f/10/382f10178b584ae3eb4fdafd408dc52c.gif)]
 <h1 align="center">Hi 👋, I'm Mario Muñoz</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
