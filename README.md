@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **Android Game App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android, JavaScrip, Laravel, SQL...**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **marioandres.1996@icloud.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I reaally like coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
