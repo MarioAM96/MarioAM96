@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mario Muñoz</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m5mal7z0fd5umnghnjkq2j7epnv0zzx8qwfjhagb&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m5mal7z0fd5umnghnjkq2j7epnv0zzx8qwfjhagb&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on [Android Game App](https://github.com/MarioAM96/ZombiesKill)
 
 - 🌱 I’m currently learning **React, NodeJS**
