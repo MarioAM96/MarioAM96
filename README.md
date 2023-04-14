@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mario Muñoz</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marioam96&label=Profile%20views&color=0e75b6&style=flat" alt="marioam96" /> </p>
-
 - 🔭 I’m currently working on [Android Game App](https://github.com/MarioAM96/ZombiesKill)
 
 - 🌱 I’m currently learning **React, NodeJS**
